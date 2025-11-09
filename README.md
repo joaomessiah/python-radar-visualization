@@ -1,5 +1,7 @@
 # 🌿 Archaeobotanical Data Visualizer (Python RADAR Visualization)
 
+> An interactive tool to explore archaeobotanical finds by location and understand their patterns across sites (abundance, ubiquity, co-occurrence).
+
 **Archaeobotanical Data Visualizer** is an interactive research tool built with Python and designed as an accessible web-based tool for exploring archaeobotanical data. It helps archaeologists, archaeobotanists, and digital humanities researchers explore, analyze, and communicate findings from plant macro-remain datasets in a clear and accessible way.
 
 It provides a reproducible and FAIR-compliant framework for turning raw archaeobotanical data into visual insights that highlight patterns in plant distribution, ecology, and human–environment interaction.
@@ -7,6 +9,8 @@ It provides a reproducible and FAIR-compliant framework for turning raw archaeob
 Inspired by datasets from the Lower Rhine Delta (Netherlands), the project aims to make archaeobotanical data more accessible, transparent, and reusable for comparative and interdisciplinary work.
 
 The original archaeobotanical dataset used in this visualization originates from the [Zadendatabase (RADAR)](https://www.cultureelerfgoed.nl/onderwerpen/b/bronnen-en-kaarten/overzicht/zadendatabase), maintained by the Cultural Heritage Agency of the Netherlands (Rijksdienst voor het Cultureel Erfgoed).
+
+**Explore the visualization at [https://archaeobotanical-data-visualizer.streamlit.app](https://archaeobotanical-data-visualizer.streamlit.app)**
 
 For installation instructions, see the [installation guide](INSTALLATION.md).
 
