@@ -1,5 +1,9 @@
 ## 🚀 Installation and Usage
 
+You can access the publicly available version of the visualization online at [https://archaeobotanical-data-visualizer.streamlit.app](https://archaeobotanical-data-visualizer.streamlit.app)
+
+If you prefer to run it locally, follow the steps below.
+
 ### 1. Clone or download this repository
 
 ```bash
